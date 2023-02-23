@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://blog.vishnuvenu.com/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://blog.vishnuvenu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://blog.vishnuvenu.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.vishnuvenu.com/resume/</guid>
+      <description>About Me Welcome to my page, A little introduction about myself. Currently working as Site Reliability Engineer. I have keen interest in Computers, Films, Travelling and watching documentries about world&amp;rsquo;s ancient history.
+Professional Experience Senior Site Reliability Engineer Vimeo Technologies - 2021 - 2023
+Contributed to newly introduced Canary Setup built on ArgoWorkflow. Rewrote the internal networking tool to make it more efficient and added test cases for full code coverage.</description>
+    </item>
+    
+  </channel>
+</rss>
